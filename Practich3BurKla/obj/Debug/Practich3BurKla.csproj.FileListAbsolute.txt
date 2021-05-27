@@ -1,0 +1,6 @@
+C:\Users\Студент\source\repos\Practich3BurKla\bin\Debug\Practich3BurKla.exe.config
+C:\Users\Студент\source\repos\Practich3BurKla\bin\Debug\Practich3BurKla.exe
+C:\Users\Студент\source\repos\Practich3BurKla\bin\Debug\Practich3BurKla.pdb
+C:\Users\Студент\source\repos\Practich3BurKla\obj\Debug\Practich3BurKla.csprojAssemblyReference.cache
+C:\Users\Студент\source\repos\Practich3BurKla\obj\Debug\Practich3BurKla.exe
+C:\Users\Студент\source\repos\Practich3BurKla\obj\Debug\Practich3BurKla.pdb
